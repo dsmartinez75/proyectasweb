@@ -6,7 +6,6 @@ import {
     Redirect,
 } from "react-router-dom";
 import { Footer } from "../componentes/Footer";
-import { userContext } from "../componentes/context/userContext";
 import { Header } from "../componentes/Header";
 import { People } from "../componentes/Home";
 import { ProductScreen } from "../componentes/screens/ProductScreen";
@@ -14,7 +13,6 @@ import { Login } from "../componentes/vistas/login";
 
 export const Routers = () => {
   return (
-    <userContext>
       <Router>
         <Header/>
           <Switch>
@@ -29,6 +27,5 @@ export const Routers = () => {
           </Switch>
         <Footer/>
       </Router>
-    </userContext>
   );
 };
