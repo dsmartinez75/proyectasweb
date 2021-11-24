@@ -21,10 +21,10 @@ export const Footer = () => {
                 <div className="row-shear-2">
                   <div className="contac_info"> Contactos y Sedes:</div>
                   <div className="contac_info2">
-                    Bogotá Avenida Caracas # 46 -72<br></br>
-                    Bogotá Carrera 13 # 47 – 30<br></br>
-                    Bogotá Diagonal 46 A # 15 B – 10<br></br>
-                    Bogotá Calle 47 # 13 - 54<br></br>
+                    Bogotá Avenida Caracas # .. -..<br></br>
+                    Bogotá Carrera 13 # .. – ..<br></br>
+                    Bogotá Diagonal 46 A # .. B – ..<br></br>
+                    Bogotá Calle 47 # .. - ..<br></br>
                   </div>
                   <div className="contac_info2">
                     (60 1) 3 27 73 00<br></br>
@@ -34,13 +34,13 @@ export const Footer = () => {
               </div>
               <div className="log-footer2" align="center">
                 <div>
-                    <a href="https://www.facebook.com/9707JK" target="_blank">    
+                    <a href="" target="_blank">    
                       <div class="social"><img src="https://i.imgur.com/PY2EPRW.png"/></div>
                     </a>
-                    <a href="https://twitter.com/JkGutiM" target="_blank">   
+                    <a href="" target="_blank">   
                       <div class="social"> <img src="https://i.imgur.com/ny0pyqt.png"/> </div>
                     </a>
-                    <a href="https://www.instagram.com/jk_g_m" target="_blank">    
+                    <a href="" target="_blank">    
                       <div class="social"> <img src="https://i.imgur.com/tZZG2zQ.png"/></div>
                     </a>
                 </div>
