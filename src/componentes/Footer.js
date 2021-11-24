@@ -19,7 +19,7 @@ export const Footer = () => {
               </div>
               <div className="row_contact">
                 <div className="row-shear-2">
-                  <div className="contac_info"> Contacto y Sedes:</div>
+                  <div className="contac_info"> Contactos y Sedes:</div>
                   <div className="contac_info2">
                     Bogotá Avenida Caracas # 46 -72<br></br>
                     Bogotá Carrera 13 # 47 – 30<br></br>
