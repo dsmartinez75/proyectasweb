@@ -14,7 +14,7 @@ export const Header = () => {
                       exact
                       to="/Home"
                     >
-                      <h1 className="texto">M@rket-Shop</h1>
+                      <img  className="log-jk" src="/img/Logotipo Negro y Amarillo en Negrita.png" alt="" />
                     </NavLink>
                   </div>
                   <div className="row-shear">

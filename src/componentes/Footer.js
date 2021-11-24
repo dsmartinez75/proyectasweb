@@ -14,7 +14,7 @@ export const Footer = () => {
                   exact
                   to="/Home"
                 >
-                  <img className="log-jk" src="/img/jk-logo.png" alt="" />
+                  <img  className="log-jk" src="/img/Logotipo Negro y Amarillo en Negrita.png" alt="" />
                 </NavLink>
               </div>
               <div className="row_contact">
